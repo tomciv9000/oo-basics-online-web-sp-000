@@ -1,7 +1,5 @@
 class Book
-  
-  
-  def initialize()
+   def initialize()
   
 end
 
